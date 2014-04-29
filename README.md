@@ -33,7 +33,7 @@ Make sure that you have signed up for [GitHub here](https://github.com/). You sh
 
 A repository is a type of folder on github. Making a copy of a respoistory is called **forking**. Click on the 'Fork' button at the top of the screen on the right hand side, and a copy of everything in this respoitory called **change-code-task** will appear in your account.
 
-![](forking.png)
+![](images/fork.png)
 
 ##Step 3: Locate the code!
 
