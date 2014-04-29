@@ -1,6 +1,6 @@
 ## Sonic Pi Scheme of Work
 
-![](sonic-pi.png)
+![](Images/sonic-pi.png)
 
 ###Introduction
 
@@ -37,4 +37,6 @@ A repository is a type of folder on github. Making a copy of a respoistory is ca
 
 Now the resources for this unit have been forked to your github account page, you can find them here.
 ![](Images/forked.png)
-Now work through the activities in [Lesson 1 : Sequencing>>](Lesson-1)
+Now work through the activities in 
+
+###[Lesson 1 : Sequencing>>](Lesson-1)
